@@ -1,1 +1,4 @@
-console.log("Hey, the javascript is working!");
+function workPlease() {
+    console.log("Hey, this works!");
+}
+workPlease();
